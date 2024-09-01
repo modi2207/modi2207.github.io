@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /experience/
-title: Experience
-nav: true
+permalink: /blog/
+title: blog
+nav: false
 nav_order: 1
 pagination:
   enabled: true

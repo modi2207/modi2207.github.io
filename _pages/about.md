@@ -7,7 +7,7 @@ subtitle: M.Tech CSE , IIT Gandhinagar
 profile:
   align: right
   image: profile.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>2nd year M.Tech CSE</p>
     <p>IIT Gandhinagar</p>
