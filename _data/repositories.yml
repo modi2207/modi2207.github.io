@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - modi2207
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - modi2207/Instant-Payment-Gateway
+  - modi2207/P2P_using_pureWebrtc
+  - modi2207/Msu_ad_sense
+  - modi2207/Quicknote
+  - modi2207/NextDoor
+  - modi2207/Human_Activity_Recognizer
+  - modi2207/Manim
+  - modi2207/Project-3

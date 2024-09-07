@@ -17,9 +17,19 @@ nav_order: 3
  * Implemented a load-balancing strategy using Nginx and containerized all servers and microservices (Nginx, MySQL,
 Elasticsearch) using Docker for streamlined deployment and management.
 
+ 
+## **2) Human Activity Recognizer**
+
+**Tools/Technology:** Python,Sklearn,numpy,pandas \| [Code](https://github.com/modi2207/Human_Activity_Recognizer.git) \| [Feb’24]
+
+**Description:**
+
+ * Developed a machine learning model which classify 6 human activities (walking,walking upstair,walking downstair laying,sitting,standing) based on timeseries data of acceleration involved . I trained sklearn's decision tree on open source UCI-HCR dataset. 
+
+ * Performed hypertuning to select best model parameters based on bias-variance tradeoff. Also tested this model with real data collected by mobile application and built confusion matrix.
 
 
-## **2) Pretrainig and Fine-tuning LLM with BERT**
+## **3) Pretrainig and Fine-tuning LLM with BERT**
 
 **Tools/Technology:** Python,Pytorch,Hugging Face Model Hub \| [Code](https://github.com/modi2207/Project-3) \|
  [October’23]
@@ -31,7 +41,7 @@ Model Hub.
 
 
 
-## **3) VOIP Call Application**
+## **4) VOIP Call Application**
 
 **Tools/Technology:** Angular, ELK Stack, WebRTC, Ejabberd XMPP \| [Code](https://github.com/modi2207/P2P_using_peerjs) \| [Dec’22]
 
@@ -42,7 +52,7 @@ Model Hub.
 
 
 
-## **4) Nextdoor- Property Rental Website** 
+## **5) Nextdoor- Property Rental Website** 
 
 **Tools/Technology:** Java Servlets,JSP,HTML,CSS, Java script,Bootstrap,Eclipse,Sql Server Management Studio \| [Code](https://github.com/modi2207/NextDoor.git) \| [Feb 2021 - April 2021]
 
@@ -52,7 +62,7 @@ Model Hub.
 
 
 
-## **5) Quicknote- Notes Sharing System For Students**
+## **6) Quicknote- Notes Sharing System For Students**
 
 **Tools/Technology:** Java Servlets,JSP,HTML,CSS, Java script,Bootstrap, Eclipse,Sql Server Management Studio \| [Code](https://github.com/modi2207/Quicknote.git) \| [March 2021 - April 2021]
 
@@ -63,7 +73,7 @@ Model Hub.
 
 
 
-## **6) MSUAdSense- MSU Event Programmes**
+## **7) MSUAdSense- MSU Event Programmes**
 
 **Tools/Technology:**  java swing,JDBC, Java Mail Api,SQL,Eclipse,Sql Server Management Studio \| [Code](https://github.com/modi2207/Msu_ad_sense) \| [Dec 2019 - Feb 2020]
 
@@ -73,7 +83,7 @@ Model Hub.
 
 
 
-## **7) Institute Management System(IMS)**
+## **8) Institute Management System(IMS)**
 
 **Tools/Technology:** Lucidchart, Draw.io \| [docs](https://github.com/modi2207/Institute_Management_System.git) \| [Aug 2019 - Sept 2019]
 

@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /resume/
+permalink: /assets/pdf/Chirag_modi_Resume.pdf
 title: Resume
 nav: true
 nav_order: 5
