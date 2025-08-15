@@ -7,6 +7,24 @@ nav: true
 nav_order: 6
 ---
 
+
+## Turing
+
+**Role:** Data Scientist - Full Time  
+
+**Duration:** June 2025 - Present  
+
+**Technology:** Python, Agentic Workflow, RLHF, Prompt Engineering, SFT  
+
+**Description:**  
+
+Working remotely as a Data Scientist on the **ServiceNow** project, focusing on creating high-quality agentic workflow training data to fine-tune frontier LLMs for enterprise automation. Key contributions include:  
+
+* **Agentic Workflow Design:** Designed agentic workflows using **Plan-and-Execute** and **ReAct** frameworks tailored for **ServiceNow** enterprise automation scenarios.  
+
+* **Training Data Generation:** Generated multi-turn, context-aware training datasets for **ServiceNow**, integrating tool usage with reasoning and decision-making steps.  
+
+
 ## Kapidhwaj AI
 
 **Role:** Software Engineer- Intern
