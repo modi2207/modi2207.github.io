@@ -17,15 +17,15 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am **Chirag Modi**, currently working as a **Data Scientist at Turing**, where I design agentic workflows using the **Plan-and-Execute** and **ReAct** frameworks to fine-tune frontier LLMs for enterprise automation, focusing on solutions for **ServiceNow**.
+I am Chirag Modi, currently working as a Data Scientist at Turing, where I design agentic workflows using the Plan-and-Execute and ReAct frameworks to fine-tune frontier LLMs for enterprise automation, focusing on solutions for ServiceNow.
 
-I completed my **M.Tech in Computer Science (2025)** from **IIT Gandhinagar**. My thesis, supervised by **Prof. Sameer G. Kulkarni**, focused on **high-performance networking in Linux systems**. I explored **DPDK-based solutions** to accelerate packet processing, evaluating various user-space TCP/IP stacks to identify optimal performance characteristics. I also developed a **DNS resolver using DPDK**, which is currently being extended to containerized environments with **AF_XDP** and **Multus CNI plugins**.
+I completed my M.Tech in Computer Science (2025) from IIT Gandhinagar. My thesis, supervised by Prof. Sameer G. Kulkarni, focused on high-performance networking in Linux systems. I explored DPDK-based solutions to accelerate packet processing, evaluating various user-space TCP/IP stacks to identify optimal performance characteristics. I also developed a DNS resolver using DPDK, which is currently being extended to containerized environments with AF_XDP and Multus CNI plugins.
 
-During my master’s, I worked as a **Founding Engineer** at **Kapidhwaj.ai**, based in the IIT Gandhinagar Research Park. We developed a surveillance IP camera solution to detect unusual or criminal activity and send real-time alerts to authorities. My contributions included building a **scalable, low-latency cloud-based streaming solution** for local IP camera feeds, implementing a **WebRTC pipeline** for real-time delivery to end users, and creating a **Node.js application for Raspberry Pi** to manage cameras within the local network.
+During my master’s, I worked as a Founding Engineer at Kapidhwaj.ai, based in the IIT Gandhinagar Research Park. We developed a surveillance IP camera solution to detect unusual or criminal activity and send real-time alerts to authorities. My contributions included building a scalable, low-latency cloud-based streaming solution for local IP camera feeds, implementing a WebRTC pipeline for real-time delivery to end users, and creating a Node.js application for Raspberry Pi to manage cameras within the local network.
 
-Before my master’s, I worked as a **Software Engineer at WiseDV Inc.**, contributing to **Bozu**, a WebRTC-based video conferencing platform. I developed features for the desktop application, such as closed captions, meeting recordings, and desktop notifications, using the Electron framework. I also led the horizontal scaling of media and signal servers by transitioning from a monolithic architecture to microservices, designing AWS auto-scaling policies, and deploying scaled infrastructure using **EC2, CloudWatch, VPC, RDS, Route 53, ELB, and NLB**.
+Before my master’s, I worked as a Software Engineer at WiseDV Inc., contributing to Bozu, a WebRTC-based video conferencing platform. I developed features for the desktop application, such as closed captions, meeting recordings, and desktop notifications, using the Electron framework. I also led the horizontal scaling of media and signal servers by transitioning from a monolithic architecture to microservices, designing AWS auto-scaling policies, and deploying scaled infrastructure using EC2, CloudWatch, VPC, RDS, Route 53, ELB, and NLB.
 
-I have strong problem-solving skills and a passion for competitive programming, with a **maximum LeetCode rating of 1675** and over **750 problems solved**. [LeetCode Profile](https://leetcode.com/u/chiragmodi2207/)
+I have strong problem-solving skills and a passion for competitive programming, with a maximum LeetCode rating of 1675 and over 750 problems solved.[LeetCode Profile](https://leetcode.com/u/chiragmodi2207/)
 
 ---
 
