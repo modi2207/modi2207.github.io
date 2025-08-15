@@ -16,13 +16,33 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing an M.Tech in Computer Science and Engineering at IIT Gandhinagar, where I am working on my thesis in computer systems under the guidance of Prof. Sameer Kulkarni. Before M.Tech, I spent two years as a software engineer at WiseDV (2021-2023), where I delved into a variety of cutting-edge technologies such as AWS, MEAN stack, WebRTC, and Electron.
 
-I completed my B.Tech from Maharaja Sayajirao University of Baroda in 2021. I have qualified the GATE exam three times, with my best rank being AIR 543 in 2023. Additionally, I have passed the written tests for ISRO and BARC and was shortlisted for interviews for scientist roles.
+I am **Chirag Modi**, currently working as a **Data Scientist at Turing**, where I design agentic workflows using the **Plan-and-Execute** and **ReAct** frameworks to fine-tune frontier LLMs for enterprise automation, focusing on solutions for **ServiceNow**.
 
-My enthusiasm lies in exploring new advancements in computer systems, including operating systems, computer networks, and architecture. I have also ventured into machine learning, data science, and natural language processing.
+I completed my **M.Tech in Computer Science (2025)** from **IIT Gandhinagar**. My thesis, supervised by **Prof. Sameer G. Kulkarni**, focused on **high-performance networking in Linux systems**. I explored **DPDK-based solutions** to accelerate packet processing, evaluating various user-space TCP/IP stacks to identify optimal performance characteristics. I also developed a **DNS resolver using DPDK**, which is currently being extended to containerized environments with **AF_XDP** and **Multus CNI plugins**.
 
-I love to do competative coding. I have max rating 1675 on leetcode with more than 500 problem solved. Here is my profile [Leetcode](https://leetcode.com/u/chiragmodi2207/)
+During my master’s, I worked as a **Founding Engineer** at **Kapidhwaj.ai**, based in the IIT Gandhinagar Research Park. We developed a surveillance IP camera solution to detect unusual or criminal activity and send real-time alerts to authorities. My contributions included building a **scalable, low-latency cloud-based streaming solution** for local IP camera feeds, implementing a **WebRTC pipeline** for real-time delivery to end users, and creating a **Node.js application for Raspberry Pi** to manage cameras within the local network.
+
+Before my master’s, I worked as a **Software Engineer at WiseDV Inc.**, contributing to **Buzu**, a WebRTC-based video conferencing platform. I developed features for the desktop application, such as closed captions, meeting recordings, and desktop notifications, using the Electron framework. I also led the horizontal scaling of media and signal servers by transitioning from a monolithic architecture to microservices, designing AWS auto-scaling policies, and deploying scaled infrastructure using **EC2, CloudWatch, VPC, RDS, Route 53, ELB, and NLB**.
+
+I have strong problem-solving skills and a passion for competitive programming, with a **maximum LeetCode rating of 1675** and over **750 problems solved**. [LeetCode Profile](https://leetcode.com/u/chiragmodi2207/)
+
+---
+
+### Technical Skills
+**Languages:** C, Python, Java, JavaScript, GoLang  
+**Databases:** MySQL, MongoDB, ElasticSearch  
+**Developer Tools:** AWS, GCP, Git/GitHub, Docker, Kubernetes, Wireshark  
+**Frameworks:** MEAN Stack, WebRTC, Electron, OpenMP, MPI, DPDK  
+**Coursework:** Parallel & Distributed Systems, Advanced Computer Networks, Machine Learning, NLP, Network Security, 5G & Beyond, Data Structures & Algorithms
+
+---
+
+### Roles I Excel In
+- **Developer:** Building scalable, real-time systems with strong backend and systems programming expertise.  
+- **Problem Solver:** Adapting to a wide range of engineering challenges across domains.
+
+
 
 
 
