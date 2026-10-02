@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Chirag_Modi_Resume_Offcampus_SDE.pdf
+permalink: /assets/pdf/Chirag_Modi_Resume_V1.6.pdf
 title: Resume
 nav: true
 nav_order: 5
